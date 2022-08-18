@@ -1,4 +1,4 @@
-package main
+package util
 
 type Ordered interface {
 	Integer | Float | ~string
